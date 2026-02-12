@@ -29,7 +29,7 @@
 # El código para resolver el ejercicio va debajo.
 # El estudiante debe completar la lógica del programa.
 
-# Estructura base sugerida (NO es la solución):
+# Estructura base sugerida:
 nombre_mascota = input("Ingresa el nombre de la mascota: ")
 tipo_animal = input("Ingresa el tipo de animal: ")
 edad_mascota = input("Ingresa la edad de la mascota: ")
