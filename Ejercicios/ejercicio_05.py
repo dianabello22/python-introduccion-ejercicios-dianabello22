@@ -1,6 +1,6 @@
 # ejercicio_05.py
 
-# Título del Ejercicio: Uso de ciclo for
+# Título del Ejercicio: ciclos
 
 # Descripción del Problema:
 # Crear un programa que cuente del 1 al 3 usando un ciclo for
