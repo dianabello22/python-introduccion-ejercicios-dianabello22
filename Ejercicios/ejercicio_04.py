@@ -5,7 +5,7 @@
 # Descripción del Problema:
 # Determina si un número es positivo, par y si una persona es mayor de edad.
 
-# Requisito:
+# Requisitos:
 # 1. Usar if, elif y else.
 # 2. Evaluar número positivo.
 # 3. Evaluar número par.
