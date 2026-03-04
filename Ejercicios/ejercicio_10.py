@@ -1,12 +1,12 @@
 # ejercicio_10.py
 
-# Título del Ejercicio: Función simple
+# Título del Ejercicio: Funciónes
 
 # Descripción del Problema:
 # Crear una función que sume dos números
 # y mostrar el resultado.
 
-# Requisito:
+# Requisitos:
 # 1. Crear una función llamada sumar().
 # 2. Recibir dos parámetros.
 # 3. Retornar el resultado.

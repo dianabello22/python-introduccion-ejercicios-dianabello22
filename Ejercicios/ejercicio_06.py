@@ -6,7 +6,7 @@
 # Crear y mostrar las estructuras básicas de Python:
 # lista, tupla, conjunto y diccionario.
 
-# Requisito:
+# Requisitos:
 # 1. Crear una lista de números.
 # 2. Crear una tupla de letras.
 # 3. Crear un conjunto de frutas.

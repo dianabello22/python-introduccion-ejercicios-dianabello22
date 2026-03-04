@@ -6,7 +6,7 @@
 # Declara variables que almacenen un nombre, un precio y una edad.
 # Luego imprime los valores almacenados.
 
-# Requisito:
+# Requisitos:
 # 1. Crear variables en snake_case.
 # 2. Asignar valores.
 # 3. Mostrar los valores con print().

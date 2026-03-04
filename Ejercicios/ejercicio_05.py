@@ -6,7 +6,7 @@
 # Crear un programa que cuente del 1 al 3 usando un ciclo for
 # y calcule la suma de esos números.
 
-# Requisito:
+# Requisitos:
 # 1. Usar ciclo for.
 # 2. Mostrar cada número.
 # 3. Calcular suma acumulada.

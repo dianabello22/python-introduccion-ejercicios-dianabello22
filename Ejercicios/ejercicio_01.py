@@ -6,7 +6,7 @@
 # Crear un programa que muestre mensajes simples en consola
 # usando la función print().
 
-# Requisito:
+# Requisitos:
 # 1. Mostrar un mensaje.
 # 2. Mostrar dos palabras en la misma línea.
 # 3. Mostrar números.

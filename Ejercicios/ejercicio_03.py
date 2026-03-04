@@ -5,7 +5,7 @@
 # Descripción del Problema:
 # Realizar operaciones matemáticas simples entre dos números.
 
-# Requisito:
+# Requisitos:
 # 1. Crear dos variables numéricas.
 # 2. Realizar suma.
 # 3. Realizar resta.
