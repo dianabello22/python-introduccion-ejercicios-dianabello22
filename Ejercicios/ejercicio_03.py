@@ -1,6 +1,6 @@
 # ejercicio_03.py
 
-# Título del Ejercicio: Operaciones
+# Título del Ejercicio: Operacion
 
 # Descripción del Problema:
 # Realizar operaciones matemáticas simples entre dos números.
