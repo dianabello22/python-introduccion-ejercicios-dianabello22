@@ -5,7 +5,7 @@
 # Descripción del Problema:
 # Recorrer una lista y un diccionario aplicando condiciones.
 
-# Requisito:
+# Requisitos:
 # 1. Recorrer lista con for.
 # 2. Aplicar condición.
 # 3. Crear nueva lista.
