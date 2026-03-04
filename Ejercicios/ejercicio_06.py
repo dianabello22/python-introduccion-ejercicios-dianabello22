@@ -1,6 +1,6 @@
 # ejercicio_06.py
 
-# Título del Ejercicio: Colecciones básicas
+# Título del Ejercicio: Colecciones
 
 # Descripción del Problema:
 # Crear y mostrar las estructuras básicas de Python:
