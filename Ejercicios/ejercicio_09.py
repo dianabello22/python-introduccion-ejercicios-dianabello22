@@ -5,7 +5,7 @@
 # Descripción del Problema:
 # Solicitar múltiples datos y combinarlos usando f-strings.
 
-# Requisito:
+# Requisitos:
 # 1. Pedir nombre.
 # 2. Pedir edad.
 # 3. Pedir ciudad.
