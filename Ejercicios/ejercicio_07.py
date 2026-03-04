@@ -5,7 +5,7 @@
 # Descripción del Problema:
 # Solicitar números al usuario, convertirlos y realizar operaciones.
 
-# Requisito:
+# Requisitos:
 # 1. Pedir número entero.
 # 2. Pedir número decimal.
 # 3. Convertir con int() y float().
