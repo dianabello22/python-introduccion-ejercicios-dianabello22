@@ -1,6 +1,6 @@
 # ejercicio_02.py
 
-# Título del Ejercicio: Uso de Variables
+# Título del Ejercicio:Variables
 
 # Descripción del Problema:
 # Declara variables que almacenen un nombre, un precio y una edad.
