@@ -1,31 +1,28 @@
-#ejercicio_05.py
+# ejercicio_05.py
 
-# Título del Ejercicio: Verificación de Edad para Votar
+# Título del Ejercicio: Uso de ciclo for
 
 # Descripción del Problema:
-# Crea un programa que solicite al usuario su nombre y su edad y determine si es
-# legalmente apto para votar. La edad mínima para votar es de 18 años. Muestra un mensaje
-# indicando si el usuario es apto para votar o no.abs
+# Crear un programa que cuente del 1 al 3 usando un ciclo for
+# y calcule la suma de esos números.
 
-# Requisitos Específicos:
-# 1. Solicitar al usuario su nombre.
-# 2. Solicitar al usuario su edad.
-# 3. Convertir la edad a un número entero (int).
-# 4. Comparar la edad con el valor mínimo requerido para votar (18 años).
-# 5. Mostrar un mensaje indicando si el usuario es apto para votar o no.
-# 6. Usar nombres de variables en snake_case.
+# Requisito:
+# 1. Usar ciclo for.
+# 2. Mostrar cada número.
+# 3. Calcular suma acumulada.
 
-# Ejemplo de Entrada:
-# Ingresa tu nombre: diana
-# Ingresa tu edad: 17
 # Ejemplo de Salida Esperada:
-# Hola Diana, tienes 17 años y no eres apto para votar.
+# Número: 1
+# Número: 2
+# Número: 3
+# Suma total: 6
 
-# Pista:
-# Recuerda convertir la edad a un número entero antes de hacer la comparación.
+# Escribe tu codigo dejajo de esta línea:
 
-# El código para resolver el ejercicio va debajo.
-# El estudiante debe completar la lógica del programa.
-nombre = input("Ingresa tu nombre: ")
-edad = input("Ingresa tu edad: ")
-# Aquí el estudiante debe convertir los datos y mostrar el resultado.
+suma_total = 0
+
+for numero in range(1, 4):
+    print("Número:", numero)
+    suma_total += numero
+
+print("Suma total:", suma_total)

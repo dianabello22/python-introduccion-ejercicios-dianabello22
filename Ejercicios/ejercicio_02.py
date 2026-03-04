@@ -1,37 +1,22 @@
 # ejercicio_02.py
 
-# Título del Ejercicio: Registro de Mascota
+# Título del Ejercicio: Uso de Variables
 
 # Descripción del Problema:
-# Crea un programa que solicite al usuario información básica
-# sobre su mascota. El programa debe pedir el nombre de la mascota,
-# el tipo de animal y la edad de la mascota, y luego mostrar un mensaje
-# con los datos ingresados de forma clara.
+# Declara variables que almacenen un nombre, un precio y una edad.
+# Luego imprime los valores almacenados.
 
-# Requisitos Específicos:
-# 1. Solicitar el nombre de la mascota (str).
-# 2. Solicitar el tipo de animal (str).
-# 3. Solicitar la edad de la mascota y convertirla a número entero (int).
-# 4. Usar nombres de variables en snake_case.
-# 5. Mostrar la información usando print() y un f-string.
+# Requisito:
+# 1. Crear variables en snake_case.
+# 2. Asignar valores.
+# 3. Mostrar los valores con print().
 
-# Ejemplo de Entrada:
-# Nombre de la mascota: Luna
-# Tipo de animal: Perro
-# Edad de la mascota: 3
+# Escribe tu codigo dejajo de esta línea:
 
-# Ejemplo de Salida Esperada:
-# Tu mascota se llama Luna, es un Perro y tiene 3 años.
+nombre_persona = "Ana"
+precio_producto = 1000
+edad_persona = 20
 
-# Pista:
-# Recuerda convertir la edad a entero antes de usarla en el mensaje final.
-
-# El código para resolver el ejercicio va debajo.
-# El estudiante debe completar la lógica del programa.
-
-# Estructura base sugerida:
-nombre_mascota = input("Ingresa el nombre de la mascota: ")
-tipo_animal = input("Ingresa el tipo de animal: ")
-edad_mascota = input("Ingresa la edad de la mascota: ")
-
-# Aquí el estudiante debe convertir los datos y mostrar el resultado
+print("Nombre:", nombre_persona)
+print("Precio:", precio_producto)
+print("Edad:", edad_persona)

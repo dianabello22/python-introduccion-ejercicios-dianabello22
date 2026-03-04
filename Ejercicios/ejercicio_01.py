@@ -1,35 +1,21 @@
 # ejercicio_01.py
 
-# Título del Ejercicio: Información Personal 
+# Título del Ejercicio: Uso básico de print()
 
 # Descripción del Problema:
-# Crea un programa que solicite al usuario su nombre, su edad
-# y si actualmente es estudiante. Luego, el programa debe mostrar
-# un resumen de la información ingresada usando un mensaje con la 
-# informacion pedida en los datos de entrada.
+# Crear un programa que muestre mensajes simples en consola
+# usando la función print().
 
 # Requisito:
-# 1. Solicitar al usuario su nombre.
-# 2. Solicitar al usuario su edad.
-# 3. Solicitar al usuario si es estudiante
-# 4. Mostrar la información usando la función print() y un f-string.
-# 5. Usar nombres de variables en snake_case.
+# 1. Mostrar un mensaje.
+# 2. Mostrar dos palabras en la misma línea.
+# 3. Mostrar números.
+# 4. Usar un salto de línea.
 
-# Ejemplo de datos de Entrada:
-# Nombre: Ana
-# Edad: 20
-# ¿Es estudiante?: True
+# Escribe tu codigo dejajo de esta línea:
 
-# Pista:
-# Recuerda que input() siempre devuelve un texto, incluso cuando el
-# usuario escribe números.
-
-# Ejemplo de Salida Esperada:
-# Hola Ana, tienes 20 años y tu estado como estudiante es: True.
-
-#Base sugerida para el código:
-nombre = input("Ingresa tu nombre: ")
-edad = input("Ingresa tu edad: ")
-estudiante = input("¿Eres estudiante? (True/False): ")
-
-# Aquí el estudiante debe convertir los datos y mostrar el resultado.
+print("Hola")
+print("Python es divertido")
+print(1, 2, 3)
+print("Línea 1")
+print("Línea 2")
